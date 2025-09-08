@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+abdullahamir52@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (984) 884-7378
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+New York City, New York, USA
 
 # navbar
 
